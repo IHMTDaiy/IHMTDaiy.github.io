@@ -23,8 +23,7 @@ This is Jericho Dai
 
 
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=EvcTBp6iYCIXk-JlcB2xx8xY1EUn2zttB2PV5VjsZ6c"></script>
-
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=OAhdUUiSUFz3exJ38RWSFg9bg2DH5W2v3AqW9aCtyuQ&cl=ffffff&w=a"></script>
 
 
 
