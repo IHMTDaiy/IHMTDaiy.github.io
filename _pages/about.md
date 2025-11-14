@@ -13,13 +13,14 @@ I'm Jericho Dai from China, a PhD candidate at USTC.
 I am interested in cancer immunology & AI-driven therapeutic. 
 
 
-## 🔬 Research
+## 🧬 Research
 
 
 ## 📄 Publication
 
 
-## 🎯 Beyound Science
+## 🏸 Beyound Research
+
 
 
 Thanks for Visit
